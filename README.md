@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/926115d9-678b-4c09-b438-6757a5fce295" />
 
 <a href="https://u8views.com/github/IhorMoskvyn"><img src="https://u8views.com/api/v1/github/profiles/26010271/views/day-week-month-total-count.svg"></a>
 
