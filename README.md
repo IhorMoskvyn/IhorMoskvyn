@@ -8,7 +8,7 @@
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihormoskvyn&show_icons=true&hide_border=true&locale=en&layout=compact" alt="ihormoskvyn" /></td>
   </tr>
   <tr style="margin: 0; padding: 0;">
-    <td colspan="2"><img src="https://streak-stats.demolab.com?user=IhorMoskvyn&hide_border=true&card_width=800&card_height=200"></td>
+    <td colspan="2"><img src="https://streak-stats.demolab.com?user=IhorMoskvyn&hide_border=true&card_width=800"></td>
   </tr>
 </table>
 
