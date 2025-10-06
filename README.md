@@ -14,7 +14,10 @@
 
 <br>
 
+
 <a href="https://u8views.com/github/IhorMoskvyn"><img src="https://u8views.com/api/v1/github/profiles/26010271/views/day-week-month-total-count.svg"></a>
+
+<a href="https://www.codewars.com/users/DenisRem/badges/large"><img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/f3ac925d-d7ac-4aed-8e86-d546f9b8404a"/></a>
 
 <!--
 **IhorMoskvyn/IhorMoskvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
