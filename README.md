@@ -33,8 +33,6 @@
     </tr>
   </table>
 
-  <br>
-
   <h3>⚙️ Backend</h3>
   <table>
     <tr>
@@ -49,9 +47,7 @@
       <td align="center" width="90"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" width="45" height="45"/><br>GraphQL</td>
     </tr>
   </table>
-
-  <br>
-
+  
   <h3>🧰 Tools & DevOps</h3>
   <table>
     <tr>
@@ -60,8 +56,6 @@
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="45" height="45"/><br>Redux</td>
     </tr>
   </table>
-
-  <br>
 
   <h3>☁️ Cloud</h3>
   <table>
