@@ -66,8 +66,6 @@
   </table>
 </div>
 
-  <br><br>
-
   <table align="center" cellspacing="0" cellpadding="0">
     <h2>GitHub Stats</h2>
     <tr>
@@ -81,13 +79,13 @@
     </tr>
   </table>
 
-  <br><br>
+  <br>
 
   <a href="https://u8views.com/github/IhorMoskvyn">
     <img src="https://u8views.com/api/v1/github/profiles/26010271/views/day-week-month-total-count.svg">
   </a>
 
-  <br><br>
+  <br>
 
   <a href="https://www.codewars.com/users/DenisRem/badges/large">
     <img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/f3ac925d-d7ac-4aed-8e86-d546f9b8404a"/>
