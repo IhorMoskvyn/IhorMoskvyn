@@ -73,7 +73,7 @@
       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihormoskvyn&show_icons=true&hide_border=true&locale=en&layout=compact" alt="ihormoskvyn" /></td>
     </tr>
     <tr>
-      <td colspan="2" style="padding:0">
+      <td colspan="2" align="center">
         <img src="https://streak-stats.demolab.com?user=IhorMoskvyn&hide_border=true&card_width=800">
       </td>
     </tr>
